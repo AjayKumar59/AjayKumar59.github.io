@@ -43,7 +43,7 @@ $(document).ready(function(){
     var typed = new Typed(".typing1", {
         strings: [` " HTML "   ,    " CSS " , " JavaScript " , " PHP "  " MySQL ", " WordPress " , " Bootstrap "`],
         typeSpeed: 80,
-        backSpeed: 60,
+        //backSpeed: 60,
         loop: false
     });
 
