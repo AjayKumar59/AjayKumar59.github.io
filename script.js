@@ -44,7 +44,7 @@ $(document).ready(function(){
         strings: [` " HTML "   ,    " CSS " , " JavaScript " , " PHP "  " MySQL ", " WordPress " , " Bootstrap "`],
         typeSpeed: 80,
         backSpeed: 60,
-        loop: true
+        loop: false
     });
 
     var typed = new Typed(".typing-2", {
