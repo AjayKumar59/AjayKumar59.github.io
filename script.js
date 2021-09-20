@@ -41,14 +41,14 @@ $(document).ready(function(){
         loop: true
     });
     var typed = new Typed(".typing1", {
-        strings: [` " HTML "   ,    " CSS " , " JavaScript " , " PHP "  " MySQL ", " WordPress " , " Bootstrap "`],
+        strings: [` " HTML "   ,    " CSS " , "React js"  ,  "JavaScript " , " PHP "  " MySQL ", " WordPress " , " Bootstrap "`],
         typeSpeed: 80,
         //backSpeed: 60,
         loop: false
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["FrontEnd Developer", "WordPress Developer", "Freelancer", "Blogger"],
+        strings: [`"FrontEnd Developer", "WordPress Developer"`],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
