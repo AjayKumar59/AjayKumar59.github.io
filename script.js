@@ -41,7 +41,7 @@ $(document).ready(function(){
         loop: true
     });
     var typed = new Typed(".typing1", {
-        strings: [` " HTML "   ,    " CSS " , "React js"  ,  "JavaScript " , " Spring Boot " ," Angular " , " MySQL ", " WordPress " , " Bootstrap "`],
+        strings: [` " HTML "   ,    " CSS " , "React js"  ,  "JavaScript " , " Spring Boot " ," Angular " , " Flutter ", " MySQL ", " WordPress " , " Bootstrap "`],
         typeSpeed: 80,
         //backSpeed: 60,
         loop: false
